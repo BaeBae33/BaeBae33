@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm baebae33, an Android Developer, good at Android Reverse🤖️
+I'm baebae33, an Android Developer, learning Android Reverse🤖️
 
 Currently I'm working at [Zepp](https://www.zepp.com/), focus on Android development 🛍️
 
